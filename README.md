@@ -1,2 +1,2 @@
-# Nanoribotics
+# Nano
 Nano machines 
